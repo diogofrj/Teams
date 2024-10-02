@@ -1,0 +1,9 @@
+   # Ignorar arquivos de log
+   *.log
+
+   # Ignorar diretórios de saída
+   /bin/
+   /obj/
+
+   # Ignorar arquivos temporários
+   *.tmp
